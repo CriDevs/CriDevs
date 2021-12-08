@@ -1,4 +1,4 @@
-## Oiii! Eu sou Cristian DAntonio 
+## Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/> I'm Cristian DAntonio 
  <div>
   <a href="https://github.com/CriDevs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CriDevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
