@@ -1,26 +1,51 @@
-## Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/> I'm Cristian DAntonio 
- <div>
-  <a href="https://github.com/CriDevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CriDevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriDevs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="My-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="My-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="My-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="My-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
+
+<h4 align="center">
  
-<div> 
-  <a href="https://www.facebook.com/cri.dwayne" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/cri.dantonio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:CristianDAntonioDevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristian-d-antonio-b31932206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
-</div>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
+
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/CriDevs)](https://www.facebook.com/cri.dwayne/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/CriDevs)](https://www.instagram.com/cri.dantonio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/CriDevs)](https://www.linkedin.com/in/cristian-d-antonio-b31932206/)
+
+</h4>
+
+<h3 align="center">  <br>
+
+Olá, eu sou o Cristian! 🇧🇷
+<br>
+
+</h3>
+
+```
+Estudante de Analise e Desenvolvimento de Sistema (ADS) na Faculdade Vale do Cricaré, 
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+```
+## Tecnologias que estou estudando atualmente 💻
+
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - NodeJS
+  - MongoDB
+  - MySQL
+
+## Alguns fatos sobre mim 👨🏻‍💻
+
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+
+- Estou cursando Analise e Desenvolvimento de Sistema. 💻
+
+
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
