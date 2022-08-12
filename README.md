@@ -19,7 +19,7 @@ Olá, eu sou o Cristian! 🇧🇷
 </h3>
 
 ```
-Estudante de Analise e Desenvolvimento de Sistema (ADS) na Faculdade Vale do Cricaré, 
+Estudante de Analise e Desenvolvimento de Sistema (ADS) na FAESA, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
 ## Tecnologias que estou estudando atualmente 💻
@@ -28,6 +28,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - CSS
   - JavaScript
   - React
+  - React Native
   - NodeJS
   - MongoDB
   - MySQL
