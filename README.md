@@ -20,7 +20,7 @@ Olá, eu sou o Cristian! 🇧🇷
 
 ```
 Estudante de Analise e Desenvolvimento de Sistema (ADS) na UNIFECAF, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um Analista De Dados/Business Intelligence.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
