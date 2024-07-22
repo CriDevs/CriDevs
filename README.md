@@ -27,11 +27,11 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - HTML
   - CSS
   - JavaScript
-  - React
-  - React Native
-  - NodeJS
-  - MongoDB
+  - SQL
+  - SQL Server
   - MySQL
+  - PowerBI
+  - Python
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
