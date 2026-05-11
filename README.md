@@ -27,17 +27,17 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - HTML
   - CSS
   - JavaScript
-  - SQL
-  - SQL Server
-  - MySQL
-  - PowerBI
-  - Python
+  - Postman
+  - Jira
+  - Cypress
+  - Testes manuais e automatizados
+  - documentos e bug report
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
-- Estou cursando Analise e Desenvolvimento de Sistema. 💻
+- Estou cursando Engenharia de Software 💻
 
 
 ## Meus dados no Github
