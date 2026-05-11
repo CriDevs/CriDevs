@@ -19,8 +19,8 @@ Olá, eu sou o Cristian! 🇧🇷
 </h3>
 
 ```
-Estudante de Analise e Desenvolvimento de Sistema (ADS) na UNIFECAF, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um Analista De Dados/Business Intelligence.
+Estudante Engenharia de Software na Unigrande, 
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um QA tester.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
